@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp3._1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="331.608">
+        Title="Оператор цикла" Height="450" Width="331.608">
     <Grid Margin="0,0,2,0">
         <Label Content="Введите x:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="49,141,0,0" Width="75" Height="26"/>
         <Label Content="Введите n:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="49,194,0,0" Width="69" Height="26"/>
